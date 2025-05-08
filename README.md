@@ -28,10 +28,12 @@ JavaScript (ES6): Used for scripting and the functional components of the app.
 
 src/
   |-- components/  
-      |-- HeroSection.js      
-      |-- Testimonial.js      
-      |-- WhyChooseUs.js      
-      |-- Feature.js      
+  
+       |-- HeroSection.js      
+       |-- Testimonial.js      
+       |-- WhyChooseUs.js      
+       |-- Feature.js     
+       
   |-- App.js
   |-- index.js  
   |-- styles/
