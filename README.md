@@ -1,4 +1,4 @@
-**SoftSell - Software License Resale Platform**
+******SoftSell - Software License Resale Platform******
 
 SoftSell is a secure and transparent marketplace where businesses can convert their unused software licenses into cash. The platform allows users to sell their unused software licenses and provides a simple and fast process for selling, ensuring compliance and competitive market rates.
 
