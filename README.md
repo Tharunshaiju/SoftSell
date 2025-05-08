@@ -27,15 +27,17 @@ JavaScript (ES6): Used for scripting and the functional components of the app.
 **Project Structure**
 
 src/
+
   |-- components/  
-  
        |-- HeroSection.js      
        |-- Testimonial.js      
        |-- WhyChooseUs.js      
        |-- Feature.js     
        
   |-- App.js
+  
   |-- index.js  
+  
   |-- styles/
       |-- tailwind.config.js
       |-- index.css
