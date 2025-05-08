@@ -39,11 +39,10 @@ src/
   |-- index.js  
   
   |-- styles/
-  
       |-- tailwind.config.js
       |-- index.css
       
-      
+    
 **Components:**
 
 HeroSection: Displays the main introduction with a call-to-action for selling licenses.
