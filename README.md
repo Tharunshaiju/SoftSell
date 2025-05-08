@@ -39,6 +39,7 @@ src/
   |-- index.js  
   
   |-- styles/
+  
       |-- tailwind.config.js
       |-- index.css
       
